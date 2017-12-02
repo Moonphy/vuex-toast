@@ -1,0 +1,16 @@
+export const SET_LOADING = 'SET_LOADING'
+
+export const SET_PULLLOADING = 'SET_PULLLOADING'
+
+export const SET_NOTICES = 'SET_NOTICES'
+
+export const REMOVE_NOTICES = 'REMOVE_NOTICES'
+
+// 全局
+export const SET_G_LOADING = 'SET_G_LOADING'
+
+export const SET_G_PULLLOADING = 'SET_G_PULLLOADING'
+
+export const SET_G_NOTICES = 'SET_G_NOTICES'
+
+export const REMOVE_G_NOTICES = 'REMOVE_G_NOTICES'
